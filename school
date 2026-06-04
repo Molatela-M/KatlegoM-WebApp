@@ -1,0 +1,68 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katlego Mamabolo Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Katlego Mamabolo</h1>
+        <p>Front-End Web Developer | IT Support Technician</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            I am an aspiring IT professional with experience in web development,
+            technical support, and cloud technologies. I enjoy building modern
+            websites and solving technical problems.
+        </p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML & CSS</li>
+            <li>JavaScript</li>
+            <li>Networking</li>
+            <li>Cloud Computing</li>
+            <li>IT Support</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <div class="project-card">
+            <h3>Interconnect App</h3>
+            <p>
+                A youth employment platform focused on connecting young people
+                with opportunities and mentorship.
+            </p>
+        </div>
+
+        <div class="project-card">
+            <h3>Generator Company Website</h3>
+            <p>
+                A responsive business website developed for a generator company.
+            </p>
+        </div>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: katli.mamabolo@gmail.com</p>
+        <p>Location: Polokwane, Limpopo</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Katlego Mamabolo. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+```
